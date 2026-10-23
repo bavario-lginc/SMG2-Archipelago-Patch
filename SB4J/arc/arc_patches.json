@@ -1,0 +1,11 @@
+{
+    "LayoutData/MapGalaxyState.arc": [{
+        "action": "AddFile",
+        "path_in_arc": "MapGalaxyState/timg/MyLock.tpl",
+        "external_path": "LayoutData/MyLock.tpl"
+    }],
+    "ObjectData/LiftFlower.arc": [{
+        "action": "RemoveFile",
+        "path_in_arc": "LiftFlower/ActorInfo/InitSensor.bcsv"
+    }]
+}

@@ -1,0 +1,252 @@
+{
+    "ObjectData/SystemDataTable.arc": {
+        "SystemDataTable/HeapSizeExcept.bcsv": [{
+            "action": "EditRow",
+            "query": [
+                {
+                    "key": "GalaxyName",
+                    "value_str": "IslandFleetGalaxy"
+                }
+            ],
+            "values": [
+                {
+                    "key": "FileCacheSize",
+                    "value_int": -1
+                }, {
+                    "key_hash": 1139414417,
+                    "value_int": -1
+                }
+            ]
+        }]
+    },
+    "ObjectData/WorldMap01.arc": {
+        "WorldMap01/ActorInfo/PointLink.bcsv": [{
+            "action": "DeleteRow",
+            "query": [
+                {
+                    "key": "PointIndexA",
+                    "value_int": 14
+                }, {
+                    "key": "PointIndexB",
+                    "value_int": 16
+                }
+            ]
+        }, {
+            "action": "DeleteRow",
+            "query": [
+                {
+                    "key": "PointIndexA",
+                    "value_int": 16
+                }, {
+                    "key": "PointIndexB",
+                    "value_int": 15
+                }
+            ]
+        }]
+    },
+    "ObjectData/WorldMap02.arc": {
+        "WorldMap02/ActorInfo/PointLink.bcsv": [{
+            "action": "DeleteRow",
+            "query": [
+                {
+                    "key": "PointIndexA",
+                    "value_int": 0
+                }, {
+                    "key": "PointIndexB",
+                    "value_int": 17
+                }
+            ]
+        }, {
+            "action": "DeleteRow",
+            "query": [
+                {
+                    "key": "PointIndexA",
+                    "value_int": 14
+                }, {
+                    "key": "PointIndexB",
+                    "value_int": 18
+                }
+            ]
+        }, {
+            "action": "DeleteRow",
+            "query": [
+                {
+                    "key": "PointIndexA",
+                    "value_int": 18
+                }, {
+                    "key": "PointIndexB",
+                    "value_int": 15
+                }
+            ]
+        }]
+    },
+    "ObjectData/WorldMap03.arc": {
+        "WorldMap03/ActorInfo/PointLink.bcsv": [{
+            "action": "DeleteRow",
+            "query": [
+                {
+                    "key": "PointIndexA",
+                    "value_int": 0
+                }, {
+                    "key": "PointIndexB",
+                    "value_int": 18
+                }
+            ]
+        }, {
+            "action": "DeleteRow",
+            "query": [
+                {
+                    "key": "PointIndexA",
+                    "value_int": 15
+                }, {
+                    "key": "PointIndexB",
+                    "value_int": 19
+                }
+            ]
+        }, {
+            "action": "DeleteRow",
+            "query": [
+                {
+                    "key": "PointIndexA",
+                    "value_int": 19
+                }, {
+                    "key": "PointIndexB",
+                    "value_int": 16
+                }
+            ]
+        }]
+    },
+    "ObjectData/WorldMap04.arc": {
+        "WorldMap04/ActorInfo/PointLink.bcsv": [{
+            "action": "DeleteRow",
+            "query": [
+                {
+                    "key": "PointIndexA",
+                    "value_int": 0
+                }, {
+                    "key": "PointIndexB",
+                    "value_int": 17
+                }
+            ]
+        }, {
+            "action": "DeleteRow",
+            "query": [
+                {
+                    "key": "PointIndexA",
+                    "value_int": 14
+                }, {
+                    "key": "PointIndexB",
+                    "value_int": 18
+                }
+            ]
+        }, {
+            "action": "DeleteRow",
+            "query": [
+                {
+                    "key": "PointIndexA",
+                    "value_int": 13
+                }, {
+                    "key": "PointIndexB",
+                    "value_int": 18
+                }
+            ]
+        }]
+    },
+    "ObjectData/WorldMap05.arc": {
+        "WorldMap05/ActorInfo/PointLink.bcsv": [{
+            "action": "DeleteRow",
+            "query": [
+                {
+                    "key": "PointIndexA",
+                    "value_int": 0
+                }, {
+                    "key": "PointIndexB",
+                    "value_int": 14
+                }
+            ]
+        }, {
+            "action": "DeleteRow",
+            "query": [
+                {
+                    "key": "PointIndexA",
+                    "value_int": 12
+                }, {
+                    "key": "PointIndexB",
+                    "value_int": 15
+                }
+            ]
+        }, {
+            "action": "DeleteRow",
+            "query": [
+                {
+                    "key": "PointIndexA",
+                    "value_int": 15
+                }, {
+                    "key": "PointIndexB",
+                    "value_int": 13
+                }
+            ]
+        }]
+    },
+    "ObjectData/WorldMap06.arc": {
+        "WorldMap06/ActorInfo/PointLink.bcsv": [{
+            "action": "DeleteRow",
+            "query": [
+                {
+                    "key": "PointIndexA",
+                    "value_int": 0
+                }, {
+                    "key": "PointIndexB",
+                    "value_int": 19
+                }
+            ]
+        }, {
+            "action": "DeleteRow",
+            "query": [
+                {
+                    "key": "PointIndexA",
+                    "value_int": 6
+                }, {
+                    "key": "PointIndexB",
+                    "value_int": 22
+                }
+            ]
+        }, {
+            "action": "DeleteRow",
+            "query": [
+                {
+                    "key": "PointIndexA",
+                    "value_int": 22
+                }, {
+                    "key": "PointIndexB",
+                    "value_int": 23
+                }
+            ]
+        }, {
+            "action": "DeleteRow",
+            "query": [
+                {
+                    "key": "PointIndexA",
+                    "value_int": 23
+                }, {
+                    "key": "PointIndexB",
+                    "value_int": 15
+                }
+            ]
+        }]
+    },
+    "ObjectData/WorldMap07.arc": {
+        "WorldMap07/ActorInfo/PointLink.bcsv": [{
+            "action": "DeleteRow",
+            "query": [
+                {
+                    "key": "PointIndexA",
+                    "value_int": 0
+                }, {
+                    "key": "PointIndexB",
+                    "value_int": 14
+                }
+            ]
+        }]
+    }
+}

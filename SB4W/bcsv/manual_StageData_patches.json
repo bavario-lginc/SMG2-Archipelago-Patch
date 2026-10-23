@@ -1,0 +1,124 @@
+{
+    "StageData/BigGalaxy/BigGalaxyMap.arc": {
+        "Stage/jmp/Placement/Common/AreaObjInfo": [{
+            "action": "AddRow",
+            "values": [
+                {
+                    "key": "name",
+                    "value_str": "NoRecoveryUpdateArea"
+                }, {
+                    "key": "pos_x",
+                    "value_float": 3000.0
+                }, {
+                    "key": "pos_y",
+                    "value_float": 3200.0
+                }, {
+                    "key": "pos_z",
+                    "value_float": -5950.0
+                }, {
+                    "key": "scale_x",
+                    "value_float": 1.5
+                }, {
+                    "key": "scale_y",
+                    "value_float": 4.0
+                }, {
+                    "key": "scale_z",
+                    "value_float": 2.1
+                }
+            ]
+        }, {
+            "action": "AddRow",
+            "values": [
+                {
+                    "key": "name",
+                    "value_str": "NoRecoveryUpdateArea"
+                }, {
+                    "key": "pos_x",
+                    "value_float": 3000.0
+                }, {
+                    "key": "pos_y",
+                    "value_float": 3200.0
+                }, {
+                    "key": "pos_z",
+                    "value_float": -3600.0
+                }, {
+                    "key": "scale_x",
+                    "value_float": 1.5
+                }, {
+                    "key": "scale_y",
+                    "value_float": 4.0
+                }, {
+                    "key": "scale_z",
+                    "value_float": 2.1
+                }
+            ]
+        }]
+    },
+    "StageData/OnimasuPlanetZone/OnimasuPlanetZoneMap.arc": {
+        "Stage/jmp/Placement/Common/AreaObjInfo": [{
+            "action": "AddRow",
+            "values": [
+                {
+                    "key": "name",
+                    "value_str": "NoRecoveryUpdateArea"
+                }, {
+                    "key": "pos_x",
+                    "value_float": 0.0
+                }, {
+                    "key": "pos_y",
+                    "value_float": 0.0
+                }, {
+                    "key": "pos_z",
+                    "value_float": -6100.0
+                }, {
+                    "key": "dir_x",
+                    "value_float": 90.0
+                }, {
+                    "key": "dir_y",
+                    "value_float": 0.0
+                }, {
+                    "key": "dir_z",
+                    "value_float": 0.0
+                }, {
+                    "key": "scale_x",
+                    "value_float": 5.0
+                }, {
+                    "key": "scale_y",
+                    "value_float": 1.5
+                }, {
+                    "key": "scale_z",
+                    "value_float": 1.0
+                }
+            ]
+        }]
+    },
+    "StageData/TubeSliderZone/TubeSliderZoneMap.arc": {
+        "Stage/jmp/Placement/Common/AreaObjInfo": [{
+            "action": "AddRow",
+            "values": [
+                {
+                    "key": "name",
+                    "value_str": "NoRecoveryUpdateArea"
+                }, {
+                    "key": "pos_x",
+                    "value_float": -500.0
+                }, {
+                    "key": "pos_y",
+                    "value_float": 16325.0
+                }, {
+                    "key": "pos_z",
+                    "value_float": 380.0
+                }, {
+                    "key": "scale_x",
+                    "value_float": 2.0
+                }, {
+                    "key": "scale_y",
+                    "value_float": 1.0
+                }, {
+                    "key": "scale_z",
+                    "value_float": 1.0
+                }
+            ]
+        }]
+    }
+}

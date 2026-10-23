@@ -1,0 +1,66 @@
+{
+    "ChallengeGliderGalaxy.arc": {
+        "ChallengeGliderGalaxy.msbt": [{
+            "action": "add_message",
+            "label": "Pichan000_Flow005",
+            "text_file": "Fluzzard.txt",
+            "sound_id": 156
+        }]
+    },
+    "FireWoodBoxPlanetZone.arc": {
+        "FireWoodBoxPlanetZone.msbt": [{
+            "action": "add_message",
+            "label": "Caretaker000_Flow008",
+            "text_file": "Gearmo.txt",
+            "sound_id": 87
+        }]
+    },
+    "JungleGliderGalaxy.arc": {
+        "JungleGliderGalaxy.msbt": [{
+            "action": "add_message",
+            "label": "Pichan000_Flow009",
+            "text_file": "Fluzzard.txt",
+            "sound_id": 156
+        }]
+    },
+    "MuimuiScoreLv1PlanetZone.arc": {
+        "MuimuiScoreLv1PlanetZone.msbt": [{
+            "action": "add_message",
+            "label": "ScoreAttackMan000_Flow010",
+            "text_file": "Skating Minigame.txt",
+            "sound_id": 178
+        }]
+    },
+    "MuimuiScoreLv2PlanetZone.arc": {
+        "MuimuiScoreLv2PlanetZone.msbt": [{
+            "action": "add_message",
+            "label": "ScoreAttackMan000_Flow010",
+            "text_file": "Skating Minigame.txt",
+            "sound_id": 178
+        }]
+    },
+    "RockBowlingLv1PlanetZone.arc": {
+        "RockBowlingLv1PlanetZone.msbt": [{
+            "action": "add_message",
+            "label": "ScoreAttackMan000_Flow010",
+            "text_file": "Skating Minigame.txt",
+            "sound_id": 178
+        }]
+    },
+    "SceneCommonMessage.arc": {
+        "ScoreAttackMan.msbt": [{
+            "action": "add_message",
+            "label": "ScoreAttackMan_ScoreAttack_Flow018",
+            "text_file": "Score Minigame.txt",
+            "sound_id": 178,
+            "talk_type": "AUTO"
+        }]
+    },
+    "SystemMessage.arc": {
+        "ScenarioName.msbt": [{
+            "action": "add_message",
+            "label": "ScenarioName_Lock",
+            "text_file": "Lock.txt"
+        }]
+    }
+}

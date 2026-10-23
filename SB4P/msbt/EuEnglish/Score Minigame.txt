@@ -1,0 +1,9 @@
+Say, are you interested in
+some kind of 
+[color:blue]high-scoring minigame[defcolor]?[pagebreak]
+[sound:SE_SV_SASURAI_TALK_QUESTION]Well I'm sorry but you
+need the infamous
+[icon:archipelago] [color:blue]Chimp Scoring Pass[defcolor]![pagebreak]
+[sound:SE_SV_SASURAI_TALK_NORMAL]Once you have one of those
+prestigious documents,
+come back to me and we will play!

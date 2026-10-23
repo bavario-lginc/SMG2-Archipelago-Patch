@@ -1,0 +1,3 @@
+Zeg, heb jij interesse in een soort [color:blue]bowling-minigame[defcolor]?[pagebreak]
+[sound:SE_SV_SASURAI_TALK_QUESTION]Nou, het spijt me, maar je hebt de befaamde [icon:archipelago] [color:blue]Chimp Pass[defcolor] nodig![pagebreak]
+[sound:SE_SV_SASURAI_TALK_NORMAL]Zoddra je een van deze belangrijke documenten in handen hebt, kan je terugkomen om te spelen!

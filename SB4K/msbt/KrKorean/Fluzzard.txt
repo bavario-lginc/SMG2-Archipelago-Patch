@@ -1,0 +1,6 @@
+Oh no! You cannot fly!
+You don't have a
+[icon:archipelago] [color:red]Fluzzard Boarding Pass[defcolor]!![pagebreak]
+[sound:SE_SV_PICHAN_TALK_NORMAL]Too bad! So sad!
+Get one! Soon!
+You're missing out!

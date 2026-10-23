@@ -1,0 +1,26 @@
+{
+    "LayoutData/Font.arc": {
+        "Font/PictureFont.brfnt": [{
+            "action": "AddTexture",
+            "external_path": "LayoutData/PictureFont.4.png",
+            "cwdh_index": 0,
+            "cwdh_entries": {
+                "84": {
+                    "LeftSpacing": -1,
+                    "GlyphWidth": 34,
+                    "CharacterWidth": 30
+                },
+                "85": {
+                    "LeftSpacing": -1,
+                    "GlyphWidth": 34,
+                    "CharacterWidth": 30
+                }
+            },
+            "cmap_index": 0,
+            "cmap_entries": {
+                "136": 84,
+                "137": 85
+            }
+        }]
+    }
+}

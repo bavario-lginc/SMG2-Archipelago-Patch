@@ -1,0 +1,6 @@
+Oh no! Non puoi volare!
+Non possiedi una
+[icon:archipelago] [color:red]Carta d'imbarco Alapinta[defcolor]!![pagebreak]
+[sound:SE_SV_PICHAN_TALK_NORMAL]Peccato! Che tristezza!
+Prendine uno! Presto!
+Non sai cosa ti perdi!
