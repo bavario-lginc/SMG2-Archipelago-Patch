@@ -2,10 +2,54 @@
     "LayoutData/MapGalaxyState.arc": [{
         "action": "AddFile",
         "path_in_arc": "MapGalaxyState/timg/MyLock.tpl",
-        "external_path": "LayoutData/MyLock.tpl"
-    }],
-    "ObjectData/LiftFlower.arc": [{
+        "external_path": "LayoutData/MapGalaxyState/MyLock.tpl"
+    }, {
         "action": "RemoveFile",
-        "path_in_arc": "LiftFlower/ActorInfo/InitSensor.bcsv"
+        "path_in_arc": "MapGalaxyState/blyt/MapGalaxyState.brlyt"
+    }, {
+        "action": "AddFile",
+        "path_in_arc": "MapGalaxyState/blyt/MapGalaxyState.brlyt",
+        "external_path": "LayoutData/MapGalaxyState/MapGalaxyState.brlyt"
+    }],
+    "LayoutData/TitleLogo.arc": [{
+        "action": "RemoveFile",
+        "path_in_arc": "TitleLogo/timg/MyTitleLogo.tpl"
+    }, {
+        "action": "AddFile",
+        "path_in_arc": "TitleLogo/timg/MyTitleLogo.tpl",
+        "external_path": "LayoutData/TitleLogo/MyTitleLogo.tpl"
+    }, {
+        "action": "RemoveFile",
+        "path_in_arc": "TitleLogo/blyt/TitleLogo.brlyt"
+    }, {
+        "action": "AddFile",
+        "path_in_arc": "TitleLogo/blyt/TitleLogo.brlyt",
+        "external_path": "LayoutData/TitleLogo/TitleLogo.brlyt"
+    }],
+    "ObjectData/APStar.arc": [{
+        "action": "CreateFromGame",
+        "root_name": "APStar",
+        "game_path": "ObjectData/PowerStar.arc"
+    }, {
+        "action": "RemoveFile",
+        "path_in_arc": "APStar/PowerStar.bdl"
+    }, {
+        "action": "AddFile",
+        "path_in_arc": "APStar/APStar.bmd",
+        "external_path": "ObjectData/APStar/APStar.bmd"
+    }, {
+        "action": "RemoveFile",
+        "path_in_arc": "APStar/PowerStarColor.brk"
+    }, {
+        "action": "AddFile",
+        "path_in_arc": "APStar/PowerStarColor.brk",
+        "external_path": "ObjectData/APStar/PowerStarColor.brk"
+    }, {
+        "action": "RemoveFile",
+        "path_in_arc": "APStar/PowerStarColor.bva"
+    }, {
+        "action": "AddFile",
+        "path_in_arc": "APStar/PowerStarColor.bva",
+        "external_path": "ObjectData/APStar/PowerStarColor.bva"
     }]
 }

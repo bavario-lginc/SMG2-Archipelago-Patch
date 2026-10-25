@@ -1,0 +1,21 @@
+[
+    {
+        "path_from_smg1": "ObjectData/IceLuigi.arc",
+        "path": "ObjectData/IceLuigi.arc"
+    }, {
+        "path_from_smg1": "ObjectData/IceMario.arc",
+        "path": "ObjectData/IceMario.arc"
+    }, {
+        "path_from_smg1": "ObjectData/IceMarioHandL.arc",
+        "path": "ObjectData/IceMarioHandL.arc"
+    }, {
+        "path_from_smg1": "ObjectData/IceMarioHandR.arc",
+        "path": "ObjectData/IceMarioHandR.arc"
+    }, {
+        "path_from_smg1": "ObjectData/IceStep.arc",
+        "path": "ObjectData/IceStep.arc"
+    }, {
+        "path_from_smg1": "ObjectData/IceStepNoSlip.arc",
+        "path": "ObjectData/IceStepNoSlip.arc"
+    }
+]

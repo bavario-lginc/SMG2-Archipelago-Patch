@@ -14,6 +14,20 @@
                     "next_node": null
                 }
             }
+        }, {
+            "start_label": "PichanRacer000",
+            "path": ["next_node"],
+            "nodes": {
+                "node_type": "BranchNode",
+                "branch_condition": "BranchFunc",
+                "parameter": 3,
+                "next_node": {"node_type": "DanglingNode"},
+                "next_node_else": {
+                    "node_type": "MessageNode",
+                    "message_id": 13,
+                    "next_node": null
+                }
+            }
         }]
     },
     "FireWoodBoxPlanetZone.arc": {
@@ -52,6 +66,20 @@
                     "next_node": null
                 }
             }
+        }, {
+            "start_label": "PichanRacer000",
+            "path": ["next_node"],
+            "nodes": {
+                "node_type": "BranchNode",
+                "branch_condition": "BranchFunc",
+                "parameter": 3,
+                "next_node": {"node_type": "DanglingNode"},
+                "next_node_else": {
+                    "node_type": "MessageNode",
+                    "message_id": 32,
+                    "next_node": null
+                }
+            }
         }]
     },
     "MuimuiScoreLv1PlanetZone.arc": {
@@ -66,7 +94,12 @@
                 "next_node_else": {
                     "node_type": "MessageNode",
                     "message_id": 10,
-                    "next_node": null
+                    "next_node": {
+                        "node_type": "EventNode",
+                        "event_type": "EventFuncAndEnd",
+                        "parameter": 2,
+                        "next_node": null
+                    }
                 }
             }
         }]
@@ -83,7 +116,12 @@
                 "next_node_else": {
                     "node_type": "MessageNode",
                     "message_id": 10,
-                    "next_node": null
+                    "next_node": {
+                        "node_type": "EventNode",
+                        "event_type": "EventFuncAndEnd",
+                        "parameter": 2,
+                        "next_node": null
+                    }
                 }
             }
         }]

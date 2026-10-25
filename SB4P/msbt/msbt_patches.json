@@ -54,6 +54,13 @@
             "text_file": "Score Minigame.txt",
             "sound_id": 178,
             "talk_type": "AUTO"
+        }],
+        "Meister.msbt": [{
+            "action": "edit_message",
+            "label": "Meister_AfterIslandFleetGalaxy_Flow000",
+            "text_file": "Lubba.txt",
+            "sound_id": 172,
+            "talk_type": "AUTO"
         }]
     },
     "SystemMessage.arc": {

@@ -1,0 +1,18 @@
+[color:red][player:0][defcolor]? J'ai entendu parler de
+tes aventures grâce à mes [color:yellow][icon:luma] Lumas[color:black]...
+On a besoin de toi![pagebreak]
+Mon nom est [color:purple]Lubba[defcolor], et je suis
+le propriétaire de ce [color:blue]vaisseau spatial[defcolor], 
+qui est aussi notre petit chez-nous.[pagebreak]
+Ce [color:red][icon:bowser] monstre[defcolor] qui a kidnappé la
+[color:purple][icon:peach] Princesse Peach[defcolor] nous a balancé des météores...[pagebreak]
+Une partie de mon [color:yellow]équipage[defcolor] a été éjecté
+par-dessus bord, et le [color:blue]vaisseau spatial[defcolor]
+a été complètement détruit![pagebreak]
+Le seul moyen qu'on puisse le réparer
+est avec une [color:yellow][icon:star] Super étoile[defcolor]...[pagebreak]
+Heureusement notre
+[color:blue]Panel d'Accès à la Carte de l'Univers[defcolor] est intact...
+il est à l'opposé de cette planète.[pagebreak]
+Utilise-le pour nous récupérer une [color:yellow][icon:star] Super étoile[defcolor]...
+On compte tous sur toi, matelot!

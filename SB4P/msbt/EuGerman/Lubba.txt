@@ -1,0 +1,18 @@
+[color:red][player:0][defcolor]? Ich habe viel von meinen
+[color:yellow][icon:luma] [color:black][color:yellow]Lumas[color:black] über deine Abenteuer gehört...
+Wir brauchen deine Hilfe![pagebreak]
+Ich heiße [color:purple]Lubba[defcolor], und ich bin
+die Kapitänin dieses [color:blue]Raumschiffs[defcolor], auf dem wir leben.[pagebreak]
+Dieses [color:red][icon:bowser] Monster[defcolor] hat nicht nur
+[color:purple][icon:peach] Prinzessin Peach[defcolor] gekidnappt, es hat uns
+auch mit Meteoriten beschossen und...[pagebreak]
+Einige von meiner [color:yellow]Crew[defcolor] wurde über
+Bord geworfen, und das [color:blue]Raumschiff[defcolor]
+wurde komplett zerstört![pagebreak]
+Den Schaden können wir es nur mit
+einem [color:yellow][icon:star] Power-Stern[defcolor] beheben...[pagebreak]
+Zum Glück ist unser [color:blue]Weltenkarte-Paneel[defcolor]
+unbeschädigt geblieben...
+Es ist auf der anderen Seite dieses Planeten.[pagebreak]
+Nutze es und hole uns einen [color:yellow][icon:star] Power-Stern[defcolor]...
+Bitte! Wir glauben an dich!

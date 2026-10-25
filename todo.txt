@@ -1,4 +1,0 @@
-- Fix French text
-- UsEnglish Minigames
-- Korean Minigames
-- Add Starship Mario changes
