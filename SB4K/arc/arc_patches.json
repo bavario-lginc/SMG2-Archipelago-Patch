@@ -51,5 +51,37 @@
         "action": "AddFile",
         "path_in_arc": "APStar/PowerStarColor.bva",
         "external_path": "ObjectData/APStar/PowerStarColor.bva"
+    }],
+    "ObjectData/KinokoOneUp.arc": [{
+        "action": "CreateFromGame",
+        "root_name": "KinokoOneUp",
+        "game_path": "ObjectData/KinokoOneUp.arc"
+    }, {
+        "action": "RemoveFile",
+        "path_in_arc": "KinokoOneUp/KinokoOneUp.bdl"
+    }, {
+        "action": "AddFile",
+        "path_in_arc": "KinokoOneUp/KinokoOneUp.bmd",
+        "external_path": "ObjectData/KinokoOneUp/KinokoOneUp.bmd"
+    }, {
+        "action": "AddFile",
+        "path_in_arc": "KinokoOneUp/KinokoOneUpColors.brk",
+        "external_path": "ObjectData/KinokoOneUp/KinokoOneUpColors.brk"
+    }],
+    "ObjectData/TicoCoin.arc": [{
+        "action": "CreateFromGame",
+        "root_name": "TicoCoin",
+        "game_path": "ObjectData/TicoCoin.arc"
+    }, {
+        "action": "RemoveFile",
+        "path_in_arc": "TicoCoin/TicoCoin.bdl"
+    }, {
+        "action": "AddFile",
+        "path_in_arc": "TicoCoin/TicoCoin.bmd",
+        "external_path": "ObjectData/TicoCoin/TicoCoin.bmd"
+    }, {
+        "action": "AddFile",
+        "path_in_arc": "TicoCoin/TicoCoinColors.brk",
+        "external_path": "ObjectData/TicoCoin/TicoCoinColors.brk"
     }]
 }
