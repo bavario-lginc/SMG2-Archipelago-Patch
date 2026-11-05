@@ -43,7 +43,7 @@
         "RockBowlingLv1PlanetZone.msbt": [{
             "action": "add_message",
             "label": "ScoreAttackMan000_Flow010",
-            "text_file": "Skating Minigame.txt",
+            "text_file": "Bowling Minigame.txt",
             "sound_id": 178
         }]
     },

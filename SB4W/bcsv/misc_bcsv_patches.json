@@ -1,4 +1,66 @@
 {
+    "ObjectData/APStar.arc": {
+        "APStar/ActorInfo/InitActor.bcsv": [{
+            "action": "EditRow",
+            "query": [
+                {
+                    "key": "InitFunction",
+                    "value_str": "Model"
+                }
+            ],
+            "values": [
+                {
+                    "key": "Data",
+                    "value_str": "APStar"
+                }
+            ]
+        }],
+        "APStar/ActorInfo/InitActorDummy.bcsv": [{
+            "action": "EditRow",
+            "query": [
+                {
+                    "key": "InitFunction",
+                    "value_str": "Model"
+                }
+            ],
+            "values": [
+                {
+                    "key": "Data",
+                    "value_str": "APStar"
+                }
+            ]
+        }],
+        "APStar/ActorInfo/InitActorDemo.bcsv": [{
+            "action": "EditRow",
+            "query": [
+                {
+                    "key": "InitFunction",
+                    "value_str": "Model"
+                }
+            ],
+            "values": [
+                {
+                    "key": "Data",
+                    "value_str": "APStar"
+                }
+            ]
+        }],
+        "APStar/ActorInfo/InitActorDemoWithShadow.bcsv": [{
+            "action": "EditRow",
+            "query": [
+                {
+                    "key": "InitFunction",
+                    "value_str": "Model"
+                }
+            ],
+            "values": [
+                {
+                    "key": "Data",
+                    "value_str": "APStar"
+                }
+            ]
+        }]
+    },
     "ObjectData/SystemDataTable.arc": {
         "SystemDataTable/HeapSizeExcept.bcsv": [{
             "action": "EditRow",
