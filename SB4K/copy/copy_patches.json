@@ -1,8 +1,15 @@
 [
-    "ObjectData/YCaptureTransparent.arc",
-    "ObjectData/SpinDriverEmpty.arc",
-    "ObjectData/SuperSpinDriverEmpty.arc",
-    "CustomCode/CustomCode_SB4K.bin",
-    "SaveGame/GameData.bin",
-    "SaveGame/banner.bin"
+    {
+        "path": "ObjectData/YCaptureTransparent.arc"
+    }, {
+        "path": "ObjectData/SpinDriverEmpty.arc"
+    }, {
+        "path": "ObjectData/SuperSpinDriverEmpty.arc"
+    }, {
+        "path": "CustomCode/CustomCode_SB4K.bin"
+    }, {
+        "path": "SaveGame/GameData.bin"
+    }, {
+        "path": "SaveGame/banner.bin"
+    }
 ]
