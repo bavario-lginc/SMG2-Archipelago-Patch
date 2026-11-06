@@ -68,6 +68,9 @@
                     "key": "Obj_arg0",
                     "value_int": 1
                 }, {
+                    "key": "Obj_arg1",
+                    "value_int": 1
+                }, {
                     "key": "Camera_id",
                     "value_int": 5
                 }, {
@@ -105,6 +108,81 @@
                 }, {
                     "key": "dir_x",
                     "value_float": 180.0
+                }, {
+                    "key": "scale_x",
+                    "value_float": 1.0
+                }, {
+                    "key": "scale_y",
+                    "value_float": 1.0
+                }, {
+                    "key": "scale_z",
+                    "value_float": 1.0
+                }, {
+                    "key": "Obj_arg0",
+                    "value_int": -1
+                }, {
+                    "key": "Obj_arg1",
+                    "value_int": -1
+                }, {
+                    "key": "Obj_arg2",
+                    "value_int": -1
+                }, {
+                    "key": "Obj_arg3",
+                    "value_int": -1
+                }, {
+                    "key": "Obj_arg4",
+                    "value_int": -1
+                }, {
+                    "key": "Obj_arg5",
+                    "value_int": -1
+                }, {
+                    "key": "Obj_arg6",
+                    "value_int": -1
+                }, {
+                    "key": "Obj_arg7",
+                    "value_int": -1
+                }, {
+                    "key": "ShapeModelNo",
+                    "value_int": -1
+                }, {
+                    "key": "CommonPath_ID",
+                    "value_int": -1
+                }, {
+                    "key": "MapParts_ID",
+                    "value_int": -1
+                }, {
+                    "key": "Obj_ID",
+                    "value_int": -1
+                }, {
+                    "key": "GeneratorID",
+                    "value_int": -1
+                }, {
+                    "key": "CameraSetId",
+                    "value_int": -1
+                }, {
+                    "key": "SW_APPEAR",
+                    "value_int": -1
+                }, {
+                    "key": "SW_DEAD",
+                    "value_int": -1
+                }, {
+                    "key": "SW_A",
+                    "value_int": -1
+                }, {
+                    "key": "SW_B",
+                    "value_int": -1
+                }, {
+                    "key": "SW_AWAKE",
+                    "value_int": -1
+                }, {
+                    "key": "SW_PARAM",
+                    "value_int": -1
+                }, {
+                    "key": "MessageId",
+                    "value_int": -2
+                }, {
+                    "key": "SW_APPEAR",
+                    "value_int": -1
                 }
             ]
         }, {
@@ -125,6 +203,81 @@
                 }, {
                     "key": "dir_x",
                     "value_float": 180.0
+                }, {
+                    "key": "scale_x",
+                    "value_float": 1.0
+                }, {
+                    "key": "scale_y",
+                    "value_float": 1.0
+                }, {
+                    "key": "scale_z",
+                    "value_float": 1.0
+                }, {
+                    "key": "Obj_arg0",
+                    "value_int": -1
+                }, {
+                    "key": "Obj_arg1",
+                    "value_int": -1
+                }, {
+                    "key": "Obj_arg2",
+                    "value_int": -1
+                }, {
+                    "key": "Obj_arg3",
+                    "value_int": -1
+                }, {
+                    "key": "Obj_arg4",
+                    "value_int": -1
+                }, {
+                    "key": "Obj_arg5",
+                    "value_int": -1
+                }, {
+                    "key": "Obj_arg6",
+                    "value_int": -1
+                }, {
+                    "key": "Obj_arg7",
+                    "value_int": -1
+                }, {
+                    "key": "ShapeModelNo",
+                    "value_int": -1
+                }, {
+                    "key": "CommonPath_ID",
+                    "value_int": -1
+                }, {
+                    "key": "MapParts_ID",
+                    "value_int": -1
+                }, {
+                    "key": "Obj_ID",
+                    "value_int": -1
+                }, {
+                    "key": "GeneratorID",
+                    "value_int": -1
+                }, {
+                    "key": "CameraSetId",
+                    "value_int": -1
+                }, {
+                    "key": "SW_APPEAR",
+                    "value_int": -1
+                }, {
+                    "key": "SW_DEAD",
+                    "value_int": -1
+                }, {
+                    "key": "SW_A",
+                    "value_int": -1
+                }, {
+                    "key": "SW_B",
+                    "value_int": -1
+                }, {
+                    "key": "SW_AWAKE",
+                    "value_int": -1
+                }, {
+                    "key": "SW_PARAM",
+                    "value_int": -1
+                }, {
+                    "key": "MessageId",
+                    "value_int": -2
+                }, {
+                    "key": "SW_APPEAR",
+                    "value_int": -1
                 }
             ]
         }]

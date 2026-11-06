@@ -68,6 +68,9 @@
                     "key": "Obj_arg0",
                     "value_int": 1
                 }, {
+                    "key": "Obj_arg1",
+                    "value_int": 1
+                }, {
                     "key": "Camera_id",
                     "value_int": 5
                 }, {
