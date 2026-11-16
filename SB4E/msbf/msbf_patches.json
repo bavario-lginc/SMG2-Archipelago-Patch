@@ -35,18 +35,55 @@
             "start_label": "Caretaker000",
             "path": ["next_node", "next_node", "next_node"],
             "nodes": {
-                "node_type": "BranchNode",
-                "branch_condition": "BranchFunc",
+                "node_type": "EventNode",
+                "event_type": "ChainToNextNode",
                 "parameter": 0,
                 "next_node": {
-                    "node_type": "MessageNode",
-                    "message_id": 1,
-                    "next_node": {"node_type": "DanglingNode"}
-                },
-                "next_node_else": {
-                    "node_type": "MessageNode",
-                    "message_id": 9,
-                    "next_node": null
+                    "node_type": "BranchNode",
+                    "branch_condition": "BranchFunc",
+                    "parameter": 1,
+                    "next_node": {
+                        "node_type": "DanglingNode"
+                    },
+                    "next_node_else": {
+                        "node_type": "MessageNode",
+                        "message_id": 9,
+                        "next_node": {
+                            "node_type": "EventNode",
+                            "event_type": "EventFuncAndEnd",
+                            "parameter": 4,
+                            "next_node": null
+                        }
+                    }
+                }
+            }
+        }]
+    },
+    "FireWoodBoxPlanetLv2Zone.arc": {
+        "FireWoodBoxPlanetLv2Zone.msbf": [{
+            "start_label": "Caretaker000",
+            "path": ["next_node", "next_node", "next_node"],
+            "nodes": {
+                "node_type": "EventNode",
+                "event_type": "ChainToNextNode",
+                "parameter": 0,
+                "next_node": {
+                    "node_type": "BranchNode",
+                    "branch_condition": "BranchFunc",
+                    "parameter": 1,
+                    "next_node": {
+                        "node_type": "DanglingNode"
+                    },
+                    "next_node_else": {
+                        "node_type": "MessageNode",
+                        "message_id": 8,
+                        "next_node": {
+                            "node_type": "EventNode",
+                            "event_type": "EventFuncAndEnd",
+                            "parameter": 4,
+                            "next_node": null
+                        }
+                    }
                 }
             }
         }]
@@ -146,7 +183,7 @@
     "SceneCommonMessage.arc": {
         "ScoreAttackMan.msbf": [{
             "start_label": "ScoreAttackMan_ScoreAttack",
-            "path": ["next_node", "next_node", "next_node_else", "next_node"],
+            "path": ["next_node", "next_node"],
             "nodes": {
                 "node_type": "BranchNode",
                 "branch_condition": "BranchFunc",

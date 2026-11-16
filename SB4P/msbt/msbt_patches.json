@@ -15,6 +15,14 @@
             "sound_id": 87
         }]
     },
+    "FireWoodBoxPlanetLv2Zone.arc": {
+        "FireWoodBoxPlanetLv2Zone.msbt": [{
+            "action": "add_message",
+            "label": "Caretaker000_Flow008",
+            "text_file": "Gearmo.txt",
+            "sound_id": 87
+        }]
+    },
     "JungleGliderGalaxy.arc": {
         "JungleGliderGalaxy.msbt": [{
             "action": "add_message",
