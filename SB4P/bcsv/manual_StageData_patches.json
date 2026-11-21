@@ -54,6 +54,35 @@
             ]
         }]
     },
+    "StageData/IceMagmaSeaPlanetZone/IceMagmaSeaPlanetZoneMap.arc": {
+        "Stage/jmp/AreaObjInfo/LayerA/AreaObjInfo": [{
+            "action": "AddRow",
+            "values": [
+                {
+                    "key": "name",
+                    "value_str": "RecoveryFloorControlArea"
+                }, {
+                    "key": "pos_x",
+                    "value_float": 0.0
+                }, {
+                    "key": "pos_y",
+                    "value_float": -15000.0
+                }, {
+                    "key": "pos_z",
+                    "value_float": -3000.0
+                }, {
+                    "key": "scale_x",
+                    "value_float": 20.0
+                }, {
+                    "key": "scale_y",
+                    "value_float": 20.0
+                }, {
+                    "key": "scale_z",
+                    "value_float": 25.0
+                }
+            ]
+        }]
+    },
     "StageData/MarioFaceShipGalaxy/MarioFaceShipGalaxyMap.arc": {
         "Stage/jmp/Start/LayerA/StartInfo": [{
             "action": "AddRow",
