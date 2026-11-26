@@ -73,10 +73,7 @@
             "values": [
                 {
                     "key": "FileCacheSize",
-                    "value_int": -1
-                }, {
-                    "key_hash": 1139414417,
-                    "value_int": -1
+                    "value_int": 11600000
                 }
             ]
         }]

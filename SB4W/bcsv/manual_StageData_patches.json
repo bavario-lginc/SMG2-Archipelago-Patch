@@ -55,7 +55,7 @@
         }]
     },
     "StageData/IceMagmaSeaPlanetZone/IceMagmaSeaPlanetZoneMap.arc": {
-        "Stage/jmp/AreaObjInfo/LayerA/AreaObjInfo": [{
+        "Stage/jmp/Placement/LayerA/AreaObjInfo": [{
             "action": "AddRow",
             "values": [
                 {
